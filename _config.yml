@@ -12,8 +12,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Blank template using LCSB theme.
-email: your-email@example.com
+title: Kobby Nii Armah Aryeetey.
+email: kobby.aryeetey@hhma.gov.gh
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -123,8 +123,3 @@ repos:
 - name: guides-template
   description:
   url: https://github.com/iamthatnikah
-
-google_analytics_ua:
-
-# Style Variables
-brand_color: "#DA253B"
