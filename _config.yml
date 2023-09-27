@@ -73,11 +73,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-
-
-
-
-
 collections:
   pages:
     output: true
