@@ -30,9 +30,9 @@ banner: default  # When you have custom images, change this setting's value to t
 logo: small  # Change to "big" (without quotas) in case of having broad logo
 
 # Social media icon settings
-twitter_username: @iamthatnikah
-facebook_username: @nii.koby.aryeetey
-linkedin_schoolname: @iamthatnikah
+twitter_username: uni_lu
+facebook_username: uni.lu
+linkedin_schoolname: university-of-luxembourg
 
 # If you want to override the link on the banner (by default it points to your index page), uncomment and change the following:
 # banner_link: https://wwwen.uni.lu/
@@ -72,6 +72,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+<<<<<<< HEAD
 
 collections:
   pages:
@@ -123,3 +124,5 @@ repos:
 - name: guides-template
   description:
   url: https://github.com/iamthatnikah
+=======
+>>>>>>> 996786d9db30923adbc0e8094aeccc66928d84ec
