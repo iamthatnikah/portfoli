@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kobby Nii Armah Aryeetey"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "|| Data Analyst || Web Developer || GIS Expert ||"
   location         : "Accra - Ghana"
   employer         : "Hohoe Municipal Assembly - HHMA"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "kobby.aryeetey@hhma.gov.gh / Kobbyaryeetey@hotmail.com"
+  email            : "kobby.aryeetey@hhma.gov.gh"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
