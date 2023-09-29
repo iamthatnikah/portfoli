@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Tableau"
+  - title: "Tableau Publications"
     url: /tableau/
 
   - title: "CV"
@@ -12,11 +12,11 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  #- title: "Blog Posts"
-  # url: /year-archive/
+  - title: "Research"
+   url: /research/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "Blog Posts"
+    url: /year-archive/
     
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "About / Contact"
+    url: /about/
